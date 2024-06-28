@@ -8,7 +8,7 @@ Trabajos hechos en conjunto con:
   -[Federico Camurri](https://github.com/kmu01)
   
 
-El esqueleto de los trabajos fue proporcionado por la [cátedra](https://fisop.github.io/website/docentes/)
+El esqueleto de los trabajos fue proporcionado por la [cátedra Mendez](https://fisop.github.io/website/docentes/) de FIUBA.
 
 ## Descripción de los trabajos
 
