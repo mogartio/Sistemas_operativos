@@ -20,7 +20,7 @@ Se desarrolló la funcionalidad mínima que caracteriza a un interprete de coman
 Implementación del mecanismo de cambio de contexto para procesos y el scheduler (planificador) sobre un sistema operativo preexistente.
 El kernel utilizado es una modificación de JOS, un exokernel educativo con licencia libre del grupo de [Sistemas Operativos Distribiudos](https://pdos.csail.mit.edu/) del MIT
 
-##TP3 - Filesystem
+## TP3 - Filesystem
 
 Implementacion de un sistema de archivos (o filesystem) para Linux. Este utiliza el mecanismo de [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) (Filesystem in USErspace) provisto por el [kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html), que permite definir en modo usuario la implementación de un filesystem. Gracias a ello, el mismo tiene la interfaz VFS y puede ser accedido con las syscalls y programas habituales (read, open, ls, etc).
 
